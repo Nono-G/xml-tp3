@@ -28,3 +28,18 @@
 	<mail></mail>
 	<site></site>
 </intervenant>
+<intervenant id="pniebert">
+	<nom>Peter NIEBERT</nom>
+	<mail></mail>
+	<site></site>
+</intervenant>
+<intervenant id="fbechet">
+	<nom>Frédéric BECHET</nom>
+	<mail></mail>
+	<site></site>
+</intervenant>
+<intervenant id="rmorin">
+	<nom>Rémi MORIN</nom>
+	<mail></mail>
+	<site></site>
+</intervenant>

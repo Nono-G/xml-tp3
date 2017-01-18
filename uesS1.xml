@@ -1,0 +1,197 @@
+<ue id="AAA">
+	<nom></nom>
+	<credits></credits>
+	<resume/>
+	<plan>
+		<CM></CM>
+		<TD></TD>
+		<TP></TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU1">
+	<nom>Génie Logiciel</nom>
+	<credits>6</credits>
+	<resume>
+		Processus logiciel; Gestion de projet;
+		Spécification et conception (artefact : notation UML);
+		Design patterns
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="parrighi"/>
+</ue>
+<ue id="ENSINAU2">
+	<nom>Complexité</nom>
+	<credits>6</credits>
+	<resume>
+		Rappels sur les notions d'analyse de la complexité des algorithmes et des problèmes;
+		Notion de problèmes (décision, recherche, dénombrement, énumération, optimisation). Bornes inférieures de complexité;
+		Classes P et NP. Problèmes NP-complets;
+		Méthodes de résolution des problèmes NP-Complets.
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="folive"/>
+	<ref-intervenant ref="ncreignou"/>
+</ue>
+<ue id="ENSINAU3">
+	<nom>Réseaux</nom>
+	<credits>6</credits>
+	<resume>
+			Architecture en couches, standard OSI
+			Couche physique
+			Couche liaison de Données
+			Réseau IP
+			Algorithmes de routage, routage IP
+			Protocole TCP/IP
+			Couche Application : HTTP, SMTP, FTP, ...
+			Bases des protocoles cryptographiques (terminologie, architecture à clef publique).
+			Introduction à la Sécurité des réseaux.
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU4">
+	<nom>Programmation fonctionnelle</nom>
+	<credits>3</credits>
+	<resume>
+		1- Introduction à la programmation fonctionnelle, sur l'exemple du langage OCaml
+		Expressions, évaluation, types de base. Polymorphisme, ordre supérieur.
+		Fonctions récursives, filtrage. Les diverses stratégies d'évaluation,
+		application à la programmation d'un opérateur de point fixe.
+		2- Les types
+		Sommes, types récursifs, polymorphes. Arbres. Filtrage.
+		3- Sémantique opérationnelle
+		Liaisons, environnements, clôtures. Évaluation des fonctions récursives .
+		4- Aspects impératifs
+		Exceptions, entrées-sorties, séquencement, fichiers, références, tableaux, enregistrements.
+		5- Implantation du filtrage en OCaml
+		Termes formels, substitutions, filtrage.
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="lsantocanale"/>
+</ue>
+<ue id="ENSINAU12">
+	<nom>BDR : approfondissement</nom>
+	<credits>3</credits>
+	<resume>
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="csabatier"/>
+</ue>
+<ue id="ENSINAU6">
+	<nom>Programmation logique</nom>
+	<credits>3</credits>
+	<resume>1.Introduction. Forme générale des règles. Effacement, unification, backtracking. Contrôle de l'exécution.
+		 2.Listes, arbres et n-uplets. Liste représentée par différence de listes. Ajout en tête et en queue, concaténation.
+		 3.Analyseurs syntaxiques. Construction d'un arbre syntaxique. Liste des feuilles d'un arbre. Freeze et analyse par feuille.
+		 4.Règles prédéfinies.
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU7">
+	<nom>Outils de l'internet</nom>
+	<credits>3</credits>
+	<resume>1.Présentation d'Internet.
+		 2.Les langages et les normes sur Internet.
+		 3.Les protocoles : HTTP, HTTP, SMTP, IMAP, POP3
+		 4.Les applications web.
+		 5.Sécurité.
+		 6.Les nouvelles et futures technologies.
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU8">
+	<nom>Système embarqué</nom>
+	<credits>3</credits>
+	<resume/>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="pniebert"/>
+</ue>
+<ue id="ENSINAU9">
+	<nom>Fondamentaux pour l'ingénierie des langues</nom>
+	<credits>3</credits>
+	<resume>
+		1.Rappel de théorie des langages
+		2.Algorithmes d'analyse syntaxique pour grammaires ambiguës
+    3.Transducteurs finis et leur application en TAL
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="fbechet"/>
+</ue>
+<ue id="ENSINAU10">
+	<nom>Modèles à évènements discrets</nom>
+	<credits>3</credits>
+	<resume>
+		Posséder les notions de base en modélisation et analyse de systèmes dynamiques
+		à événements discrets et particulièrement appréhender le formalisme réseau de
+		Pétri. Étudier la conception et la spécification des systèmes réactifs à travers
+		l'analyse du modèle à évènements discrets (concurrence, parallélisme, synchronisation).
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&stj;</lieu>
+	<ref-intervenant ref="fbechet"/>
+</ue>
+<ue id="ENSINAU13">
+	<nom>Pratique de la cryptographie</nom>
+	<credits>3</credits>
+	<resume/>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>

@@ -1,0 +1,12 @@
+<ue id="AAA">
+	<nom></nom>
+	<credits></credits>
+	<resume/>
+	<plan>
+		<CM></CM>
+		<TD></TD>
+		<TP></TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>

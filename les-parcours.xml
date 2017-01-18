@@ -1,0 +1,16 @@
+<parcours>
+	<responsable ref="egodard"/>
+	<nom></nom>
+	<description></description>
+	<debouches>
+		<debouche></debouche>
+	</debouches>
+	<semestre>
+		<bloc type="Obligatoires">
+			<ref-ue ref="AAA"/>
+		</bloc>
+	</semestre>
+	<semestre>
+		<bloc type="Options"/>
+	</semestre>
+</parcours>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE master SYSTEM "master.dtd"
+	[<!ENTITY ues SYSTEM "ues.xml">
+	 <!ENTITY intervenants SYSTEM "intervenants.xml">
+	 <!ENTITY les-parcours SYSTEM "les-parcours.xml">
+	 
+	 <!ENTITY lum "Campus Universitaire Luminy 13008 Marseille">
+	 <!ENTITY stj "Campus Universitaire Saint-Jérôme 13013 Marseille">
+	]>
+<master>
+	<UES>
+		&ues;
+	</UES>
+	<intervenants>
+		&intervenants;
+	</intervenants>
+	<les-parcours>
+		&les-parcours;
+	</les-parcours>
+</master>

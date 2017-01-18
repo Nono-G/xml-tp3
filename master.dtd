@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding ="UTF-8" ?>
+
+<!ELEMENT master (UES,intervenants,les-parcours) >
+<!ELEMENT UES (ue*) >
+<!ELEMENT ue (nom,credits,resume,plan,lieu,ref-intervenant+)>
+<!ATTLIST ue
+		id ID #REQUIRED
+>
+<!ELEMENT plan (CM,TD,TP)>
+<!ELEMENT intervenants (intervenant*)>
+<!ELEMENT intervenant (nom,mail,site)>
+<!ATTLIST intervenant
+		id ID #REQUIRED
+>
+<!ELEMENT ref-intervenant EMPTY>
+<!ATTLIST ref-intervenant
+		ref IDREF #REQUIRED
+>
+<!ELEMENT les-parcours (parcours*)>
+<!ELEMENT parcours (responsable+, nom, description, debouches,semestre+)>
+<!ELEMENT responsable EMPTY>
+<!ATTLIST responsable
+		ref IDREF #REQUIRED
+>
+<!ELEMENT debouches (debouche*)>
+<!ELEMENT semestre (bloc+)>
+<!ATTLIST semestre
+		numero CDATA #IMPLIED
+>
+<!ELEMENT bloc (ref-ue*)>
+<!ATTLIST bloc
+		type (Obligatoires|Options|Bonus) #REQUIRED
+>
+<!ELEMENT ref-ue EMPTY>
+<!ATTLIST ref-ue
+		ref IDREF #REQUIRED
+>
+
+
+<!-- -->
+<!ELEMENT debouche (#PCDATA)>
+<!ELEMENT description (#PCDATA)> 
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT CM (#PCDATA)>
+<!ELEMENT TD (#PCDATA)>
+<!ELEMENT TP (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT resume (#PCDATA)>
+<!ELEMENT credits (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT site (#PCDATA)>

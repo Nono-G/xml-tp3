@@ -104,3 +104,113 @@
 	<lieu>&lum;;&stj;</lieu>
 	<ref-intervenant ref="csabatier"/>
 </ue>
+<ue id="AAA">
+	<nom></nom>
+	<credits></credits>
+	<resume/>
+	<plan>
+		<CM></CM>
+		<TD></TD>
+		<TP></TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU6">
+	<nom>Programmation logique</nom>
+	<credits>3</credits>
+	<resume/>1.Introduction. Forme générale des règles. Effacement, unification, backtracking. Contrôle de l'exécution.
+		 2.Listes, arbres et n-uplets. Liste représentée par différence de listes. Ajout en tête et en queue, concaténation.
+		 3.Analyseurs syntaxiques. Construction d'un arbre syntaxique. Liste des feuilles d'un arbre. Freeze et analyse par feuille.
+		 4.Règles prédéfinies.
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU7">
+	<nom>Outils de l'internet</nom>
+	<credits>3</credits>
+	<resume/>1.Présentation d'Internet.
+		 2.Les langages et les normes sur Internet.
+		 3.Les protocoles : HTTP, HTTP, SMTP, IMAP, POP3
+		 4.Les applications web.
+		 5.Sécurité.
+		 6.Les nouvelles et futures technologies.
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU8">
+	<nom>Système embarqué</nom>
+	<credits>3</credits>
+	<resume/>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="pniebert"/>
+</ue>
+<ue id="ENSINAU9">
+	<nom>Fondamentaux pour l'ingénierie des langues</nom>
+	<credits>3</credits>
+	<resume/>1.Rappel de théorie des langages
+		 2.Algorithmes d'analyse syntaxique pour grammaires ambiguës
+                 3.Transducteurs finis et leur application en TAL
+
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="fbechet"/>
+</ue>
+<ue id="ENSINAU10">
+	<nom>Modèles à évènements discrets</nom>
+	<credits>3</credits>
+	<resume/>Posséder les notions de base en modélisation et analyse de systèmes dynamiques à événements discrets et particulièrement 			appréhender le formalisme réseau de
+
+		Pétri. Étudier la conception et la spécification des systèmes réactifs à travers l'analyse du modèle à évènements discrets 			(concurrence, parallélisme, synchronisation).
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&stj;</lieu>
+	<ref-intervenant ref="fbechet"/>
+</ue>
+<ue id="ENSINAU13">
+	<nom>Pratique de la cryptographie</nom>
+	<credits>3</credits>
+	<resume/>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+
+
+
+
+
+
+
+
+
+
+
+
+

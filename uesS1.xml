@@ -104,23 +104,10 @@
 	<lieu>&lum;;&stj;</lieu>
 	<ref-intervenant ref="csabatier"/>
 </ue>
-<ue id="AAA">
-	<nom></nom>
-	<credits></credits>
-	<resume/>
-	<plan>
-		<CM></CM>
-		<TD></TD>
-		<TP></TP>
-	</plan>
-	<lieu>&lum;;&stj;</lieu>
-	<ref-intervenant ref="egodard"/>
-</ue>
 <ue id="ENSINAU6">
 	<nom>Programmation logique</nom>
 	<credits>3</credits>
-	<resume>
-		 1.Introduction. Forme générale des règles. Effacement, unification, backtracking. Contrôle de l'exécution.
+	<resume>1.Introduction. Forme générale des règles. Effacement, unification, backtracking. Contrôle de l'exécution.
 		 2.Listes, arbres et n-uplets. Liste représentée par différence de listes. Ajout en tête et en queue, concaténation.
 		 3.Analyseurs syntaxiques. Construction d'un arbre syntaxique. Liste des feuilles d'un arbre. Freeze et analyse par feuille.
 		 4.Règles prédéfinies.
@@ -167,9 +154,9 @@
 	<nom>Fondamentaux pour l'ingénierie des langues</nom>
 	<credits>3</credits>
 	<resume>
-		 1.Rappel de théorie des langages
-		 2.Algorithmes d'analyse syntaxique pour grammaires ambiguës
-     3.Transducteurs finis et leur application en TAL
+		1.Rappel de théorie des langages
+		2.Algorithmes d'analyse syntaxique pour grammaires ambiguës
+    3.Transducteurs finis et leur application en TAL
 	</resume>
 	<plan>
 		<CM>10</CM>
@@ -183,11 +170,10 @@
 	<nom>Modèles à évènements discrets</nom>
 	<credits>3</credits>
 	<resume>
-		Posséder les notions de base en modélisation et analyse de systèmes
-		 dynamiques à événements discrets et particulièrement appréhender le
-		 formalisme réseau de	Pétri. Étudier la conception et la spécification des
-		 systèmes réactifs à travers l'analyse du modèle à évènements discrets
-		 (concurrence, parallélisme, synchronisation).
+		Posséder les notions de base en modélisation et analyse de systèmes dynamiques
+		à événements discrets et particulièrement appréhender le formalisme réseau de
+		Pétri. Étudier la conception et la spécification des systèmes réactifs à travers
+		l'analyse du modèle à évènements discrets (concurrence, parallélisme, synchronisation).
 	</resume>
 	<plan>
 		<CM>10</CM>
@@ -206,6 +192,6 @@
 		<TD>10</TD>
 		<TP>10</TP>
 	</plan>
-	<lieu>&stj;</lieu>
+	<lieu>&lum;;&stj;</lieu>
 	<ref-intervenant ref="rmorin"/>
 </ue>

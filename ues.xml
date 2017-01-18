@@ -10,3 +10,97 @@
 	<lieu>&lum;;&stj;</lieu>
 	<ref-intervenant ref="egodard"/>
 </ue>
+<ue id="ENSINAU1">
+	<nom>Génie Logiciel</nom>
+	<credits>6</credits>
+	<resume>
+		Processus logiciel; Gestion de projet;
+		Spécification et conception (artefact : notation UML);
+		Design patterns
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="parrighi"/>
+</ue>
+<ue id="ENSINAU2">
+	<nom>Complexité</nom>
+	<credits>6</credits>
+	<resume>
+		Rappels sur les notions d'analyse de la complexité des algorithmes et des problèmes;
+		Notion de problèmes (décision, recherche, dénombrement, énumération, optimisation). Bornes inférieures de complexité;
+		Classes P et NP. Problèmes NP-complets;
+		Méthodes de résolution des problèmes NP-Complets.
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="folive"/>
+	<ref-intervenant ref="ncreignou"/>
+</ue>
+<ue id="ENSINAU3">
+	<nom>Réseaux</nom>
+	<credits>6</credits>
+	<resume>
+			Architecture en couches, standard OSI
+			Couche physique
+			Couche liaison de Données
+			Réseau IP
+			Algorithmes de routage, routage IP
+			Protocole TCP/IP
+			Couche Application : HTTP, SMTP, FTP, ...
+			Bases des protocoles cryptographiques (terminologie, architecture à clef publique).
+			Introduction à la Sécurité des réseaux.
+	</resume>
+	<plan>
+		<CM>20</CM>
+		<TD>20</TD>
+		<TP>20</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="egodard"/>
+</ue>
+<ue id="ENSINAU4">
+	<nom>Programmation fonctionnelle</nom>
+	<credits>3</credits>
+	<resume>
+		1- Introduction à la programmation fonctionnelle, sur l'exemple du langage OCaml
+		Expressions, évaluation, types de base. Polymorphisme, ordre supérieur.
+		Fonctions récursives, filtrage. Les diverses stratégies d'évaluation,
+		application à la programmation d'un opérateur de point fixe.
+		2- Les types
+		Sommes, types récursifs, polymorphes. Arbres. Filtrage.
+		3- Sémantique opérationnelle
+		Liaisons, environnements, clôtures. Évaluation des fonctions récursives .
+		4- Aspects impératifs
+		Exceptions, entrées-sorties, séquencement, fichiers, références, tableaux, enregistrements.
+		5- Implantation du filtrage en OCaml
+		Termes formels, substitutions, filtrage.
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="lsantocanale"/>
+</ue>
+<ue id="ENSINAU12">
+	<nom>BDR : approfondissement</nom>
+	<credits>3</credits>
+	<resume>
+	</resume>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="csabatier"/>
+</ue>

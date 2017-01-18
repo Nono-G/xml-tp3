@@ -1,5 +1,30 @@
 <intervenant id="egodard">
 	<nom>Emmanuel GODARD</nom>
 	<mail></mail>
+	<site>&webPersoLif;emmanuel.godard</site>
+</intervenant>
+<intervenant id="parrighi">
+	<nom>Pablo ARRIGHI</nom>
+	<mail></mail>
+	<site>&webPersoLif;pablo.arrighi</site>
+</intervenant>
+<intervenant id="folive">
+	<nom>Frédéric OLIVE</nom>
+	<mail></mail>
+	<site>&webPersoLif;frederic.olive</site>
+</intervenant>
+<intervenant id="ncreignou">
+	<nom>Nadia CREIGNOU</nom>
+	<mail></mail>
+	<site></site>
+</intervenant>
+<intervenant id="lsantocanale">
+	<nom>Luigi SANTOCANALE</nom>
+	<mail></mail>
+	<site></site>
+</intervenant>
+<intervenant id="csabatier">
+	<nom>Claude SABATIER</nom>
+	<mail></mail>
 	<site></site>
 </intervenant>

@@ -3,9 +3,10 @@
 	[<!ENTITY ues SYSTEM "ues.xml">
 	 <!ENTITY intervenants SYSTEM "intervenants.xml">
 	 <!ENTITY les-parcours SYSTEM "les-parcours.xml">
-	 
+
 	 <!ENTITY lum "Campus Universitaire Luminy 13008 Marseille">
 	 <!ENTITY stj "Campus Universitaire Saint-Jérôme 13013 Marseille">
+	 <!ENTITY webPersoLif "pageperso.lif.univ-mrs.fr/~"
 	]>
 <master>
 	<UES>

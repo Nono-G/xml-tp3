@@ -1,15 +1,3 @@
-<ue id="AAA">
-	<nom></nom>
-	<credits></credits>
-	<resume/>
-	<plan>
-		<CM></CM>
-		<TD></TD>
-		<TP></TP>
-	</plan>
-	<lieu>&lum;;&stj;</lieu>
-	<ref-intervenant ref="egodard"/>
-</ue>
 <ue id="ENSINAU1">
 	<nom>Génie Logiciel</nom>
 	<credits>6</credits>
@@ -103,18 +91,6 @@
 	</plan>
 	<lieu>&lum;;&stj;</lieu>
 	<ref-intervenant ref="csabatier"/>
-</ue>
-<ue id="AAA">
-	<nom></nom>
-	<credits></credits>
-	<resume/>
-	<plan>
-		<CM></CM>
-		<TD></TD>
-		<TP></TP>
-	</plan>
-	<lieu>&lum;;&stj;</lieu>
-	<ref-intervenant ref="egodard"/>
 </ue>
 <ue id="ENSINAU6">
 	<nom>Programmation logique</nom>

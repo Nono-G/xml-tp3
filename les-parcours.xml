@@ -7,7 +7,7 @@
 	</debouches>
 	<semestre>
 		<bloc type="Obligatoires">
-			<ref-ue ref="AAA"/>
+			<ref-ue ref="ENSINAU1"/>
 		</bloc>
 	</semestre>
 	<semestre>

@@ -1,0 +1,223 @@
+<ue id="ENSINBU1">
+	<nom>Anglais</nom>
+	<credits>3</credits>
+	<resume>Un enseignement destiné à confirmer l'utilisation de l'anglais dans le contexte
+		 de l'informatique ainsi que dans la pratique professionnelle.
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU2">
+	<nom>Communication</nom>
+	<credits>3</credits>
+	<resume>chapitre 1 : Théories de la communication :
+
+			1.1 La théorie mathématique de l’information (Shannon, Weaver), la cybernétique (Wiener)
+			1.2 La théorie de Palo Alto ( Bateson, Watzlawick) et la théorie de la communication par les processus (Mucchielli)
+		chapitre 2 : Rôle de l’interculturalité dans le travail en équipe :
+
+			2.1 L’enquête interculturelle de Hofstede pour IBM
+			2.2 La gestuelle et le paralangage et la proxémie dans le monde (Hall)
+		chapitre 3 : Notions de management et de travail collaboratif
+
+			3.1 Le travail collaboratif vs le travail coopératif
+			3.2 La notion de groupes
+			3.3 Les compétences managériales
+	</resume><plan>
+		<CM>15</CM>
+		<TD>8</TD>
+		<TP>0</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU4">
+	<nom>XML</nom>
+	<credits>3</credits>
+	<resume>XML, DTD, XSD
+		 XPath, XSLT, XQuery
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU5">
+	<nom>Algorithmique et recherche opérationnelle</nom>
+	<credits>3</credits>
+	<resume>Programmation linéaire.
+		 Notions et algorithmes de flots.
+		 Applications (couplage, affectation, transport, ...)
+		 Programmation dynamique (sac à dos, ordonnancement, ...)
+		 Algorithmes à performance garantie
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU15">
+	<nom>Programmation parallèle</nom>
+	<credits>3</credits>
+	<resume/>
+	<plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU6">
+	<nom>Projet</nom>
+	<credits>6</credits>
+	<resume>Le but du projet est de mettre en oeuvre, de l'analyse à la programmation, les notions présentées en cours. C'est l'occasion, 			 pour les étudiants, d'utiliser sur un cas pratique, les éléments exposées dans les UE. Travail effectué sous la direction 			 pédagogique d'un enseignant, et donnant lieu à la rédaction d'un mémoire et d'une soutenance orale.
+	</resume><plan>
+		<CM></CM>
+		<TD></TD>
+		<TP></TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU7">
+	<nom>Stage de deux mois</nom>
+	<credits>6</credits>
+	<resume>Le but du projet est de mettre en oeuvre, de l'analyse à la programmation, les notions présentées en cours. C'est l'occasion, 			 pour les étudiants, d'utiliser sur un cas pratique, les éléments exposées dans les UE. Travail effectué sous la direction 			 pédagogique d'un enseignant, et donnant lieu à la rédaction d'un mémoire et d'une soutenance orale.
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU8">
+	<nom>Sémantique</nom>
+	<credits>3</credits>
+	<resume>1-Le lambda-calcul simplement typé
+		Syntaxe, typage, beta et eta-conversions, équations. Modèles : interprétation des jugements de typage.
+
+		2-Extension à PCF. La règle \mu.
+
+		3-Points fixes dans les ordres partiels complets.
+ 		Le théorème de Tarski.
+
+		4-Sémantique par point fixe de PCF.
+
+		5-Cours de clôture : survol des différentes approches sémantiques.
+		Sémantiques opérationnelles : par transitions, naturelles, machine abstraite de Landin.
+
+		Sémantique dénotationnelles : cas fonctionnel(cf.chapitre 4) et cas d'un petit langage impératif.
+
+
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU9">
+	<nom>Algorithmique distribuée</nom>
+	<credits>3</credits>
+	<resume>Un système distribué est un ensemble d’entités autonomes de calcul (ordinateurs, PDA, processeurs, processus, processus 			 léger, ...) interconnectées et qui peuvent communiquer entre eux. Ce cours est une introduction aux méthodes pour la 			 conception d'algorithmes dans de tels systèmes. Il donne une présentation des différents types de systèmes distribués et des 			 différents problèmes que l'on doit résoudre. Les problèmes abordés sont : l'élection, le consensus, la diffusion, 			 l'exploration, la réplication, l'exploration et le rendez-vous avec des agent mobiles.
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU10">
+	<nom>Intégration des systèmes d'information</nom>
+	<credits>3</credits>
+	<resume>Problématique d'intégration des SI
+		 Architectures et patrons d'intégration
+		 Systèmes d'Information d'entreprises
+		 Systèmes d'Information sur Internet
+
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU11">
+	<nom>Initiation à la fouille de données et à l'optimisation des SGBD</nom>
+	<credits>3</credits>
+	<resume>
+  Actuellement, de plus en plus de données sont conservées sans être réellement exploitées. Elles représentent pourtant une 			 source importante d’information. La fouille de données peut-être définie comme le processus permettant d’extraire de 			 l’information non triviale et non préalablement connue à partir des données. Dans cet enseignement, nous nous focaliserons 			 sur l’extraction de corrélations entre les données (règle d’association, Dépendances Fonctionnelles...) et nous verrons des 			 techniques de mesure de la qualité des données (détection et correction d’erreur).
+
+		 Par ailleurs, nous passerons du côté obscur des SGBD en mettant évidence le lien existant entre les performances d'un SGBD et 			 les choix d'implémentation des différents algorithmes utilisés (gestion de la concurrence, reprise sur panne, transaction...) 			 ainsi que les différentes implémentations existantes des opérations de base des SGBD comme les jointures ou les tris 			 accompagnés de leurs conditions d'utilisation.
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU12">
+	<nom>Intelligence artificielle</nom>
+	<credits>3</credits>
+	<resume>Introduction à l'IA
+		 Problèmes d'espace d'états et d'exploration
+		 Logiques pour l'IA et démonstration automatique
+		 Représentation de connaissances
+		 Actions, temps et planification
+		 Programmation par contraintes et réseaux de contraintes
+	</resume><plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU13">
+	<nom>Algorithme à performance garantie</nom>
+	<credits>3</credits>
+	<resume>
+    Algorithmes d'approximation de nature combinatoire pour les problèmes
+		NP-complets suivants : Voyageur de Commerce, arbre de Steiner,
+    ordonnancement de taches, clustering, p-centres, sac à dos, bin packing,
+    couverture d'ensemble, la plus courte sur-séquence commune ;
+    FPTAS et PTAS (ordonnancement de taches et sac à dos) ;
+		Algorithmes d'approximation par programmation linéaire : l'arrondi et la
+    méthode primale-duale (MAXSAT, couverture d'ensemble, multicoupes et
+    multiflots dans les arbres) ;
+		Algorithmes en ligne et compétitivité : la pagination et les k-serveurs.
+	</resume>
+  <plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>
+<ue id="ENSINBU16">
+	<nom>Introduction à l'apprentissage automatique</nom>
+	<credits>3</credits>
+	<resume/>
+  <plan>
+		<CM>10</CM>
+		<TD>10</TD>
+		<TP>10</TP>
+	</plan>
+	<lieu>&lum;;&stj;</lieu>
+	<ref-intervenant ref="rmorin"/>
+</ue>

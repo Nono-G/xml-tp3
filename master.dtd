@@ -35,17 +35,27 @@
 <!ATTLIST ref-ue
 		ref IDREF #REQUIRED
 >
-
-
 <!-- -->
-<!ELEMENT debouche (#PCDATA)>
-<!ELEMENT description (#PCDATA)> 
+<!ENTITY % RT "(#PCDATA|i|b)*">
+<!ELEMENT i %RT;>
+<!ELEMENT b %RT;>
+<!ELEMENT liste (puce*)>
+<!ELEMENT puce (para*)>
+<!ELEMENT para %RT;>
+<!ELEMENT tableau (lig*)>
+<!ELEMENT lig (col*)>
+<!ELEMENT col (case*)>
+<!ELEMENT case (#PCDATA)>
+<!ENTITY % RTD "(#PCDATA|para|tableau|liste)*">
+<!-- -->
+<!ELEMENT debouche %RTD;>
 <!ELEMENT nom (#PCDATA)>
 <!ELEMENT CM (#PCDATA)>
 <!ELEMENT TD (#PCDATA)>
 <!ELEMENT TP (#PCDATA)>
 <!ELEMENT lieu (#PCDATA)>
-<!ELEMENT resume (#PCDATA)>
+<!ELEMENT description %RTD;>
 <!ELEMENT credits (#PCDATA)>
 <!ELEMENT mail (#PCDATA)>
 <!ELEMENT site (#PCDATA)>
+<!ELEMENT resume %RTD;>

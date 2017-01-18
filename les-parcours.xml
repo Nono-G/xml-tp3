@@ -1,16 +1,117 @@
 <parcours>
-	<responsable ref="egodard"/>
-	<nom></nom>
-	<description></description>
+	<responsable ref="rmorin"/>
+	<nom>Master 1 Tronc Commun</nom>
+	<description><para>
+		L'objectif de cette première année est de donner les bases indispensables
+		permettant, en deuxième année, de choisir une spécialisation dans un domaine
+		précis. Sur les 60 crédits de cette première année, 15 crédits correspondent
+		à des enseignements optionnels. Ces options permettent de construire un
+		parcours adapté. Un choix entre stage ou projet encadré est également
+		proposé au <b>semestre de printemps</b>
+	</para></description>
 	<debouches>
-		<debouche></debouche>
+		<debouche>Poursuite en Master 2</debouche>
 	</debouches>
-	<semestre>
+	<semestre numero="1">
 		<bloc type="Obligatoires">
 			<ref-ue ref="ENSINAU1"/>
+			<ref-ue ref="ENSINAU2"/>
+			<ref-ue ref="ENSINAU3"/>
+			<ref-ue ref="ENSINAU4"/>
+			<ref-ue ref="ENSINAU12"/>
+		</bloc>
+		<bloc type="Options">
+			<ref-ue ref="ENSINAU6"/>
+			<ref-ue ref="ENSINAU7"/>
+			<ref-ue ref="ENSINAU8"/>
+			<ref-ue ref="ENSINAU9"/>
+			<ref-ue ref="ENSINAU10"/>
+			<ref-ue ref="ENSINAU13"/>
 		</bloc>
 	</semestre>
-	<semestre>
-		<bloc type="Options"/>
+	<semestre numero="2">
+		<bloc type="Obligatoires">
+			<ref-ue ref="ENSINBU1"/>
+			<ref-ue ref="ENSINBU2"/>
+			<ref-ue ref="ENSINBU4"/>
+			<ref-ue ref="ENSINBU5"/>
+			<ref-ue ref="ENSINBU15"/>
+		</bloc>
+		<bloc type="Options">
+			<ref-ue ref="ENSINBU6"/>
+			<ref-ue ref="ENSINBU7"/>
+			<ref-ue ref="ENSINBU8"/>
+			<ref-ue ref="ENSINBU9"/>
+			<ref-ue ref="ENSINBU10"/>
+			<ref-ue ref="ENSINBU11"/>
+			<ref-ue ref="ENSINBU12"/>
+			<ref-ue ref="ENSINBU13"/>
+			<ref-ue ref="ENSINBU16"/>
+		</bloc>
+	</semestre>
+</parcours>
+<parcours>
+	<responsable ref="egodard"/>
+	<nom>Master 2 FSI</nom>
+	<description>
+		La formation donne les principes et techniques liés à la conception de
+		systèmes informatiques surs dans un environnement ouvert et hétérogène.
+		Elle forme les étudiants aux principes et méthodes de développement modernes
+		qui reposent sur des outils de prototypage, de test et de suivi de
+		logiciels, avec des méthodologies normalisées. Elle apporte des compétences
+		fortes en sécurité informatique dans les domaines liés à l'échange
+		d'information (Web-services, protocoles de communication et
+		cryptographiques,..) et à la communication entre systèmes (réseaux
+		hétérogènes et applications embarquées ou distribuées).
+	</description>
+	<debouches>
+		<debouche>Ingénieur études et développement</debouche>
+		<debouche>Responsable réseaux</debouche>
+		<debouche>Responsable systèmes et sécurité</debouche>
+		<debouche>Ingénieur qualité</debouche>
+	</debouches>
+	<semestre numero="1">
+		<bloc type="Obligatoires">
+			<ref-ue ref="ENSINCU30"/>
+		</bloc>
+	</semestre>
+	<semestre numero="2">
+		<bloc type="Obligatoires">
+			<ref-ue ref="ENSINDU4"/>
+		</bloc>
+	</semestre>
+</parcours>
+<parcours>
+	<responsable ref="fbechet"/>
+	<nom>Master 2 Recherche d'informations multimédia (RIM)</nom>
+	<description>
+		L'objectif de la spécialité RIM est de former des spécialistes du
+		traitement et de la recherche de contenus multimédias. Du point de vue des
+		débouchés professionnels, cette formation vise à produire des
+		informaticiens spécialistes du traitement des données multimédia et de la
+		recherche d'information qui pourront s'intégrer dans des entreprises
+		innovantes centrées autour des domaines du multimédia et de l'internet.
+	</description>
+	<debouches>
+		<debouche>
+			Cette formation vise à produire des informaticiens spécialistes
+			du traitement des données multimédia et de la recherche d'information qui
+			pourront s'intégrer dans les entreprises innovantes centrées autour des
+			domaines du multimédia et de l'internet.
+		</debouche>
+		<debouche>
+			Une poursuite en thèse pourra être envisagée si le stage de fin d'étude
+			s'effectue au sein d'un laboratoire de recherche.
+		</debouche>
+	</debouches>
+	<semestre numero="1">
+		<bloc type="Obligatoires">
+			<ref-ue ref="ENSINCU69"/>
+		</bloc>
+	</semestre>
+	<semestre numero="2">
+		<bloc type="Obligatoires">
+			<ref-ue ref="ENSINDU4"/>
+		</bloc>
 	</semestre>
 </parcours>

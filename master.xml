@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE master SYSTEM "master.dtd"
 	[<!ENTITY uesS1 SYSTEM "uesS1.xml">
+	 <!ENTITY uesS2 SYSTEM "uesS2.xml">
+	 <!ENTITY uesM2 SYSTEM "uesM2.xml">
 	 <!ENTITY intervenants SYSTEM "intervenants.xml">
 	 <!ENTITY les-parcours SYSTEM "les-parcours.xml">
 
@@ -11,6 +13,8 @@
 <master>
 	<UES>
 		&uesS1;
+		&uesS2;
+		&uesM2;
 	</UES>
 	<intervenants>
 		&intervenants;
